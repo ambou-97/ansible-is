@@ -1,5 +1,5 @@
 [is]
-is_1 ansible_host=[ip_address] ansible_user=[ssh_user]
+is_1 ansible_host=155.248.228.144 ansible_user=target2 ansible_connection=ssh ansible_user=opc ansible_ssh_private_key_file=/home/opc/resources/tools/target2/ssh-key-2022-04-28.key
 # Example
 # is_1 ansible_host=172.28.128.4 ansible_user=vagrant
 
