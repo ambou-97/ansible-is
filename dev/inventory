@@ -1,5 +1,6 @@
 [is]
-internal_idp ansible_host=168.138.70.107 ansible_connection=ssh ansible_user=opc ansible_ssh_private_key_file=/home/opc/keys/internal-idp.key
+is_1 ansible_host=168.138.70.107 ansible_connection=ssh ansible_user=opc ansible_ssh_private_key_file=/home/opc/keys/internal-idp.key
 
 # Example
 # is_1 ansible_host=172.28.128.4 ansible_user=vagrant
+

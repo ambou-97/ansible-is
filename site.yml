@@ -24,6 +24,6 @@
 
 - name: Apply Identity Server configuration to is nodes
   hosts:
-    - internal-idp
+    - is_1
   roles:
     - is
